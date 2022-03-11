@@ -63,7 +63,7 @@ export default function App() {
           </div>
 
           <label>
-            I agree you take my data, and do whatever
+            I agree you take my data and do whatever
             <input type="checkbox" name="consent" id="consent" />
           </label>
         </div>
